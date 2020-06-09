@@ -1,10 +1,19 @@
 (7/6)-----------------------------------------------------------------------
-	>COMIENZA EL PROYECTO
-	>division de tareas
+>COMIENZA EL PROYECTO
+>division de tareas
 ____________________________________________________________________________
 
 (9/6)-----------------------------------------------------------------------
-	>Armado y diseño de menus
-	>nombre de equipo
-	>comienzo del diseño de funciones
+>Armado y diseño de menus:
+	menu();
+	menuCli();
+	menuCon();
+
+>nombre de equipo:
+
+>comienzo del diseño de funciones:
+	stCliente cargarCliente();
+	int validaMail(char email[]);
+	int verifMail(char email[]);	
+	
 ____________________________________________________________________________
